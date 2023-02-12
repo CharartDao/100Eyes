@@ -1,0 +1,7 @@
+{
+  "name": "100Eyes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
