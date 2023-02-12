@@ -1,6 +1,6 @@
 # 100Eyes
 
-This project enables user to use cursor as a bug to with a wall of interactive eyes. The eye balls can move based on the location of the cursor and the lids can be closed when the cursor is coming near. 
+This project enables user to use the cursor as a bug to with a wall of interactive eyes. The eyeballs follow the location of the bug closely. The eyelids close automatically when the bug is coming near. 
 
 This project was created using Ionic Angular typescript.
 
